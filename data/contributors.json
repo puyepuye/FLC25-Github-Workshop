@@ -5,6 +5,11 @@
     "bio": "CS @ UofT. I build things and break bugs."
   },
   {
+
+    "name": "Ethan Diep",
+    "github": "bearatron",
+    "bio": "hi, I like coding + bears are cool"
+  },
      "name": "Huda Anum",
      "github": "hedwig2007",
      "bio": "One-liner about you (optional)."
@@ -13,5 +18,6 @@
     "name": "Jasmine Bui",
     "github": "nghijas19-dev",
     "bio": "CS @ UofT. Here for a good time not a long time."
+
   }
 ]

@@ -1,8 +1,14 @@
 [
-  {
+
+    {
     "name": "Sataphon (PF) Obra",
     "github": "puyepuye",
     "bio": "CS @ UofT. I build things and break bugs."
+  },
+    {
+    "name": "yara megahed",
+    "github": "yaramegahed-st",
+    "bio": "CS @ UofT. do a ton"
   },
   {
      "name": "Hilary Wekesa",
@@ -28,6 +34,6 @@
   {
     "name": "Jasmine Bui",
     "github": "nghijas19-dev",
-    "bio": "CS @ UofT. Here for a good time not a long time." main
+    "bio": "CS @ UofT. Here for a good time not a long time."
   }
 ]
